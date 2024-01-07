@@ -1,0 +1,18 @@
+{
+    "name": "roddy/paystack",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Roddy\\Paystack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Freddy",
+            "email": "alfrednti5000@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    }
+}
